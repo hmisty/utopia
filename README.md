@@ -6,7 +6,7 @@ Here, we will describe everything about it comprehensively.
 
 Name
 -----------------
-Utopia of Hmisty (UH)
+Idealistic State of Utopia (ISU, 以苏)
 
 Official Language
 -----------------
@@ -45,7 +45,7 @@ The citizen's child becomes the citizen.
 
 Residence
 -----------------
-All resident in other countries that recognize UH.
+All resident in other countries that recognize ISU.
 
 Sexual Relations
 -----------------
