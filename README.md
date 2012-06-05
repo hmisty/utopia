@@ -67,7 +67,7 @@ Worldwide UH teachers.
 
 Outsourced school infrastructure.
 
-Medical
+Healthcare
 -----------------
 Worldwide UH doctors.
 
