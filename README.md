@@ -39,6 +39,10 @@ Currency
 -----------------
 P2P currency, e.g. bitcoin.
 
+Tax
+-----------------
+No tax!
+
 Citizenship
 -----------------
 The citizen's child becomes the citizen.
@@ -47,7 +51,7 @@ Residence
 -----------------
 All resident in other countries that recognize ISU.
 
-Sexual Relations
+Intimacy
 -----------------
 No marriage.
 
